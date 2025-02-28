@@ -1,0 +1,4 @@
+personID,personName,idPassword,personType
+1,Raymond,testing,admin
+2,Ediel,hello,admin
+3,Paco,testing2,normal
